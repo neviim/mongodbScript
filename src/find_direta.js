@@ -1,4 +1,5 @@
 // https://specify.io/how-tos/find-documents-in-mongodb-using-the-mongo-shell
+// https://docs.mongodb.com/manual/indexes/
 // ---
 
 db.getCollection('carros').find({})
